@@ -2,7 +2,7 @@
 
 ## 1. 실험 개요
 **‘Bag of Tricks for Image Classification with CNN’** 논문을 읽고 논문에서 소개된 다양한 기법들을 직접 적용해서 성능 변화를 확인 후 결과를 정리한다.
-- 실험은 https://github.com/bentrevett/pytorch-image-classification의 **ResNet50** 모델을 기반으로 진행한다.
+- 실험은 https://github.com/bentrevett/pytorch-image-classification **ResNet50** 모델을 기반으로 진행한다.
 
 - **Cosine Learning Rate Decay**, **Label Smoothing**, **Mixup** 기법과 이들의 조합에 대한 성능 비교를 실시한다.
 
